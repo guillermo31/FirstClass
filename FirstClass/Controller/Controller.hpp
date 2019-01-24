@@ -16,6 +16,7 @@ class Controller
 {
 private:
     int specialNumber;
+    string input;
 public:
     Controller();
     void start();
